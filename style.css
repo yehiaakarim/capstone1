@@ -1,0 +1,18 @@
+.hello{color: green; background-color: rgba(253, 228, 0, 0.575);}
+h1{color: blue; font-family:"Rubik Vinyl", serif;
+  }
+h1{text-align: center; font-size: 3rem;}
+.noway{font-size: 40px;}
+#nooway{text-decoration:line-through; font-family: "Ruwudu", serif;}
+a[draggable="true"]{color: gray;}
+a[draggable="false"] {text-decoration: overline;}
+html{background-color: aliceblue; font-size: 30px;}
+footer{text-align: center;}
+footer{text-decoration: underline;}
+.yell{color: brown;}
+.moo{font-size: 30px; font-family: "Ysabeau SC", serif;}
+h1{background-color: blueviolet;}
+#mn{text-align: center; font-family: "Playwrite CO Guides", serif; font-size: 1.1rem;}
+#pho{font-family: "Bebas Neue", serif; font-weight: 900; text-align: center;}
+.hie{background-color: aqua;}
+#orange{font-size: 1.5rem;}
